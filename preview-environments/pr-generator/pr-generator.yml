@@ -11,7 +11,7 @@ spec:
       github:
         owner: xxxDaOctoPuSSxxx
         repo: gitops-cert-level-3-examples
-        lables:
+        labels:
         - preview-ready
       requeueAfterSeconds: 180
   template:
