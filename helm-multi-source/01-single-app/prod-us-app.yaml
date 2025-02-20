@@ -20,7 +20,7 @@ spec:
         - $values/helm-multi-source/my-values/app-version/prod-values.yaml              
         - $values/helm-multi-source/my-values/env-type/prod-values.yaml 
         - $values/helm-multi-source/my-values/regions/us-values.yaml                
-        - $values/helm-multi-source/my-values/envs/prod-us-app.yaml
+        - $values/helm-multi-source/my-values/envs/prod-us-values.yaml
     - repoURL: 'https://github.com/xxxdaoctopussxxx/gitops-cert-level-3-examples.git'
       targetRevision: HEAD
       ref: values
